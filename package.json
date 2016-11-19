@@ -1,0 +1,19 @@
+{
+  "name": "plex-control-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-request-sign": "^1.0.1",
+    "number-to-words": "^1.2.3",
+    "request": "^2.78.0",
+    "xml2js": "^0.4.17"
+  }
+}
